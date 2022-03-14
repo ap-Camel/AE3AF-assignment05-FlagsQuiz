@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+MX1TOWGTVEMgdPTxWS5rRA4F/VhP69KkdS4r6zvtLvINpb6e93DVAoM0b3V6EZsVZWnnY5y8guMUSkJiE0waA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ayman\\source\\repos\\Assignment05\\Assignment05\\Assignment05.iOS\\Assignment05.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ayman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\bin\Debug\netstandard2.0\Assignment05.deps.json
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\bin\Debug\netstandard2.0\Assignment05.dll
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\bin\Debug\netstandard2.0\ref\Assignment05.dll
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\bin\Debug\netstandard2.0\Assignment05.pdb
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\obj\Debug\netstandard2.0\Assignment05.csprojAssemblyReference.cache
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\obj\Debug\netstandard2.0\Views\CountryView.xaml.g.cs
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\obj\Debug\netstandard2.0\Assignment05.AssemblyInfoInputs.cache
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\obj\Debug\netstandard2.0\Assignment05.AssemblyInfo.cs
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\obj\Debug\netstandard2.0\Assignment05.csproj.CoreCompileInputs.cache
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\obj\Debug\netstandard2.0\Assignment05.dll
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\obj\Debug\netstandard2.0\ref\Assignment05.dll
+C:\Users\Ayman\source\repos\Assignment05\Assignment05\Assignment05\obj\Debug\netstandard2.0\Assignment05.pdb
